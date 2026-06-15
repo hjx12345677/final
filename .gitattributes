@@ -1,0 +1,1 @@
+*.zip"*.rar*.psd*.mp4*.fbx filter=lfs diff=lfs merge=lfs -text
